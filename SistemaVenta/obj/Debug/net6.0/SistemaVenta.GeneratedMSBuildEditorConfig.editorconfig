@@ -8,17 +8,17 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SistemaVenta
 build_property.RootNamespace = SistemaVenta
-build_property.ProjectDir = C:\Users\casta\Documents\Inventario\SistemaVenta\SistemaVenta\
+build_property.ProjectDir = C:\Users\casta\Desktop\prueba\.ne\SistemaVenta\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\casta\Documents\Inventario\SistemaVenta\SistemaVenta
+build_property.MSBuildProjectDirectory = C:\Users\casta\Desktop\prueba\.ne\SistemaVenta
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/casta/Documents/Inventario/SistemaVenta/SistemaVenta/Pages/Error.cshtml]
+[C:/Users/casta/Desktop/prueba/.ne/SistemaVenta/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/casta/Documents/Inventario/SistemaVenta/SistemaVenta/Pages/_ViewImports.cshtml]
+[C:/Users/casta/Desktop/prueba/.ne/SistemaVenta/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

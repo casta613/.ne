@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\casta\\Documents\\Inventario\\SistemaVenta\\SistemaVenta\\SistemaVenta.csproj": {}
+    "C:\\Users\\casta\\Desktop\\prueba\\.ne\\SistemaVenta\\SistemaVenta.csproj": {}
   },
   "projects": {
-    "C:\\Users\\casta\\Documents\\Inventario\\SistemaVenta\\SistemaVenta\\SistemaVenta.csproj": {
+    "C:\\Users\\casta\\Desktop\\prueba\\.ne\\SistemaVenta\\SistemaVenta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\casta\\Documents\\Inventario\\SistemaVenta\\SistemaVenta\\SistemaVenta.csproj",
+        "projectUniqueName": "C:\\Users\\casta\\Desktop\\prueba\\.ne\\SistemaVenta\\SistemaVenta.csproj",
         "projectName": "SistemaVenta",
-        "projectPath": "C:\\Users\\casta\\Documents\\Inventario\\SistemaVenta\\SistemaVenta\\SistemaVenta.csproj",
+        "projectPath": "C:\\Users\\casta\\Desktop\\prueba\\.ne\\SistemaVenta\\SistemaVenta.csproj",
         "packagesPath": "C:\\Users\\casta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\casta\\Documents\\Inventario\\SistemaVenta\\SistemaVenta\\obj\\",
+        "outputPath": "C:\\Users\\casta\\Desktop\\prueba\\.ne\\SistemaVenta\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
